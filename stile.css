@@ -1,3 +1,7 @@
+body {
+  font-family: Fantasy;
+}
+
 p {
   color: silver;
 }
@@ -5,8 +9,16 @@ p {
 .terzine p {
   color: violet;
   font-style: italic;
+  line-height: 24px;
 }
 
 #preferita {
+  border: 1px solid red;
   font-weight: bold;
+  font-size: 20px;
+}
+
+img {
+  border: 3px solid #FF0000;
+  border-radius: 5px;
 }

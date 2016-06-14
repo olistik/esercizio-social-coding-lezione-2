@@ -1,0 +1,12 @@
+p {
+  color: silver;
+}
+
+.terzine p {
+  color: violet;
+  font-style: italic;
+}
+
+#preferita {
+  font-weight: bold;
+}
